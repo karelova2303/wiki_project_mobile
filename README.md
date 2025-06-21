@@ -65,6 +65,11 @@
 ----
 ### Allure отчет
 
+#### Формирование отчета:
+>-  локальный запуск: ввести в командной строке `allure serve allure-results`
+>-  запуск через Jenkins: кликнуть кнопку `Allure Report` в боковом меню 
+
+
 #### Результаты запусков
 ![This is an image](/resources/images/allure_report_overview.png)
 ![This is an image](resources/images/allure_report_graphs.png)

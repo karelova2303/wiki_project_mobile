@@ -5,7 +5,7 @@
 <h3> Список проверок, реализованных в автотестах:</h3>
 
 ### Mobile-тесты
-- [x] Проверка отображения эксранов приветствия
+- [x] Проверка отображения экранов приветствия
 - [x] Поиск контента по тексту
 - [x] Создание и изменение списка
 
@@ -38,9 +38,11 @@
 
 ----
 ### Локальный запуск
-> - Для запуска на эмуляторе андроида: `pytest -s -v --context=emulator`
-> - Для запуска на реальном девайсе: `pytest -s -v --context=local_device`
-> - Для удаленного запуска на BrowserStack: `pytest -s -v --context=browserstack`
+
+#### Команды запуска в терминале:
+> - для запуска на эмуляторе андроида: `pytest -s -v --context=emulator`
+> - для запуска на реальном девайсе: `pytest -s -v --context=local_device`
+> - для удаленного запуска на BrowserStack: `pytest -s -v --context=browserstack`
 
 > [!IMPORTANT]
 > 
@@ -49,10 +51,6 @@
 ----
 ### Удаленный запуск автотестов выполняется на сервере Jenkins
 > <a target="_blank" href="https://jenkins.autotests.cloud/job/019-karelova2303%20-%20wiki_project_mobile/">_**Ссылка на сборку в Jenkins**_</a>
-
-#### Параметры сборки
-
-* `comment` - комментарий
 
 
 #### Для запуска автотестов в Jenkins
@@ -106,4 +104,6 @@
 ----
 
 ### Пример видео прохождения mobile-автотеста
-![autotest_gif](/resources/video/autotest_mobile.gif)
+<p align="center">
+    <img title="Video" src="/resources/video/autotest_mobile.gif">
+</p>

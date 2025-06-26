@@ -21,7 +21,7 @@
   <img src="https://github.com/karelova2303/karelova2303/blob/main/media/icons/selene.png" 
     title="Selene" alt="Selene" width="50" height="50"/>&nbsp;
   <img src="https://github.com/karelova2303/karelova2303/blob/main/media/icons/browserstack.png" 
-    title="Selenoid" alt="BrowserStack" width="40" height="40"/>&nbsp;  
+    title="BrowserStack" alt="BrowserStack" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/karelova2303/karelova2303/blob/main/media/icons/pycharm-original.svg" 
     title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;    
   <img src="https://github.com/karelova2303/karelova2303/blob/main/media/icons/jenkins-original.svg" 

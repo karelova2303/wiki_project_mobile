@@ -33,7 +33,7 @@
   <img src="https://github.com/karelova2303/karelova2303/blob/main/media/icons/telegram1.png" 
     title="Telegram" alt="Telegram" width="40" height="40"/>&nbsp;
 <img src="https://github.com/karelova2303/karelova2303/blob/main/media/icons/Jira.png" 
-    title="Telegram" alt="Jira" width="40" height="40"/>&nbsp;
+    title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </div>
 
 ----

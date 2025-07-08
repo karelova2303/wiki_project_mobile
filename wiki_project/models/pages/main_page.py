@@ -13,7 +13,7 @@ class MainPage:
         self.main_toolbar = browser.element((AppiumBy.ID, f'{self.locator_url}/main_toolbar_wordmark'))
 
     def should_have_text_on_the_screen(self, value):
-        with step(f'Отображается "{value}" на экране приветствия'):
+        with step(f'Проверка, что отобразился текст'):
             self.primary_text_view.should(have.text(value))
 
     def click_forward_button(self):
